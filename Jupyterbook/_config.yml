@@ -35,11 +35,11 @@ sphinx:
     - substitution
 
 repository:
-  url         : https://github.com/underworld-geodynamics-cloud/self-managing-jupyterhub  # Online location of this book
+  url         : https://github.com/ANU-RSES-Education/EMSC-4123 # Online location of this book
   branch      : master  # Which branch of the repository should be used when creating links (optional)
 
 launch_buttons:
-  # jupyterhub_url: "https://demon.underworldcloud.org"  # The URL for your JupyterHub. 
+  jupyterhub_url: "https://emsc4123-2021.rses.underworldcloud.org"  # The URL for your JupyterHub. 
   binderhub_url:  "https://mybinder.org"  # The URL of the BinderHub (e.g., https://mybinder.org)
   notebook_interface: "classic" # "jupyterlab" or "classic"
 

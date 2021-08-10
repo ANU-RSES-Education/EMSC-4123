@@ -39,7 +39,7 @@ And the corresponding page for an admin user to authorise the users after they s
    
 Admin users also have access to the hub control panel to shut down wayward servers and add / remove users. 
     
-[![ControlPanel](https://img.shields.io/badge/Admin-HubControlPanel-Red)](https://github.com/ANU-RSES-Education/EMSC-4123/hub/admin)
+[![ControlPanel](https://img.shields.io/badge/Admin-HubControlPanel-Red)](https://emsc4123-2021.rses.underworldcloud.org/hub/admin)
     
     
 
